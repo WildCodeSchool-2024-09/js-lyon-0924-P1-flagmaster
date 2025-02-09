@@ -32,12 +32,12 @@ Flag Master est un jeu interactif et éducatif permettant aux utilisateurs de te
 - 📊 Système de points et de progression
 - 🏆 Tableau des scores
 - 📱 Interface responsive
-- 🎨 Design interactif en JavaScript vanilla
+- 🎨 Design interactif en JavaScript
 
 ## Technologies utilisées
 - HTML5
 - CSS3
-- JavaScript vanilla
+- JavaScript
 
 ## Développement
 - Durée : 2 semaines
@@ -46,7 +46,7 @@ Flag Master est un jeu interactif et éducatif permettant aux utilisateurs de te
 ## Installation
 ```bash
 # Cloner le repository
-git clone [URL du repository]
+git clone git@github.com:WildCodeSchool-2024-09/js-lyon-0924-P1-flagmaster.git
 
 # Ouvrir le fichier index.html dans un navigateur
 # ou utiliser un serveur local comme Live Server
@@ -65,10 +65,40 @@ flag-master/
 ```
 
 ## Comment jouer
-1. Choisissez une région du monde
-2. Identifiez le drapeau affiché
+1. Démarrer le quizz
+2. Identifiez le drapeau affiché parmi les 4 choix
 3. Gagnez des points pour chaque bonne réponse
-4. Débloquez de nouveaux niveaux en progressant
+4. Obtenez votre score à la fin
 
 ## Contribution
 Projet développé dans le cadre de la formation à la Wild Code School Lyon.
+
+Comment contribuer ?
+1. Fork ce dépôt.
+
+2. Clone votre fork :
+
+```bash
+git clone git@github.com:WildCodeSchool-2024-09/js-lyon-0924-P1-flagmaster.git
+cd js-lyon-0924-P1-flagmaster
+```
+3. Créez une branche pour votre contribution :
+
+```bash
+git checkout -b feature/ma-nouvelle-fonctionnalité
+```
+
+4. Effectuez vos modifications et validez-les :
+
+```bash
+git commit -m "Ajout d'une nouvelle fonctionnalité"
+```
+
+5. Envoyez votre branche sur GitHub :
+
+```bash
+git push origin feature/ma-nouvelle-fonctionnalité
+```
+
+6. Créez une Pull Request depuis GitHub.
+
